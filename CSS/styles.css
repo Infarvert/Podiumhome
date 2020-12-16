@@ -1,0 +1,66 @@
+body {
+  background-color: #131313;
+}
+
+.logo {
+  position: absolute;
+  margin-left: 150px;
+  margin-top: 80px;
+}
+
+.mic {
+  position: absolute;
+  margin-left: 650px;
+  margin-top: 100px;
+  width: 1200px;
+  height: 1000;
+}
+
+.Info_Container {
+  width: 950px;
+  height: 600px;
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 150px;
+  background-color: #131313
+}
+
+.Publish {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  color: white;
+  font-size: 4em;
+  margin-top: 100px;
+}
+
+.Upload {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  margin-right: 300px;
+}
+
+.Logo_Title {
+  color: white;
+
+  font-family: 'Raleway', sans-serif;
+}
+
+.colored {
+  color: #C484BC;
+}
+
+.signupb {
+  background-color: #AC84C4;
+  font-size: 24px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  padding: 14px 40px;
+  margin-top: 30px;
+
+  }
+
+  .signupb:hover {
+  background-color: #CFC9FB;
+  color: black;
+
+}
